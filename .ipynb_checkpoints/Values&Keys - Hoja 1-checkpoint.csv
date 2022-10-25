@@ -1,0 +1,41 @@
+Pregunta,Opción a,Opción b,Opción c
+¿Con qué siempre debe acabar def?,return,otra función,con
+Las listas son,Mutables,Inmutables,Tuplas
+¿Qué es Python?,Lenguaje de programación,El juego de la víbora,La causa de mis pesadillas
+¿Qué es panda?,Es una librería,Es un animal que come bamboo,Yo los fines de semana
+¿A qué se refiere REGEX?,Expresiones Regulares,No sé ni siquiera puedo pronunciarlo,Es un lenguaje de programación
+¿En qué año apareció Python?,1991,1985,1970
+¿Qué es docstring?,"Es un comentario escrito en la primera instrucción de un módulo,  función, clase o definición de método",Es parte de definir una función,Suena a un pato
+¿Cuál es el segundo nombre de Zahid?,Moisés,Jesús,Eduardo
+¿Qué es IDP en Python? ,Integrated Development Environments,Individual Development Plan ,Identity Provider
+¿Qué es una librería en programación? ,Son conjuntos de archivos de código que se utilizan para desarrollar software,Un lugar donde compras libros,Lugar donde voy a dormir donde no sé qué hacer con mi proyecto
+"Según Zahid, ¿cuál fue la analogía para entender Git?",Omnitrix: el poderoso reloj de Ben 10,La historia de la cigüeña ,Como el América gana la liga mexicana
+"¿Para que sirve el "":wq"" en la terminal?",Write and quit,Hacer un emoji,Borrar tu disco duro
+"¿Para qué sirve ""q!"" en la terminal?",Forzar salida,Regresar al menú principal,Retroceder un nivel
+¿Cuál es la diferencia de GIT y GITHUB?,GIT es local y GITHUB es colaborativo,Ojalá hubiera sido GIT para trabajar individualmente,GIT es en línea y GITHUB es local
+"¿Para qué sirve el ""git Status""?",Para saber qué hay y qué cambios se hicieron,Para saber el status de carga de una función,Para nada
+¿Qué es concatenar? ,Se refiere a juntar / unir  elementos,Separa elementos,Borra el último elemento
+¿Con qué símbolo puedo hacer comentarios?,#,//,:
+¿Con qué puedo agregar elementos a una lista?,Append,Add,Adiós Popo como el meme
+¿Cuál es una característica de las Tuplas?,No se puede modificar,Es igual que una lista,Se acompañan con chocolate caliente
+¿Qué es un SET?,Es un conjunto: colección de objetos con una particularidad,Cada 4 juegos ganados en un partido de tenis,Para indicar que es texto
+¿Para qué sirve el .pop?,Quita un elemento,Para hacer palomitas,Para agregar objetos a una lista
+¿Qué es un diccionario?,Colección de datos no ordenados que contienen un key y un value,Lo mismo con una lista,Donde buscas palabras para escribir correctamente
+"En REGEX, ¿para qué funciona el \d?",Para reconocer números en cualquier formato incluso si son símbolos,"No sé, pero en el juego de Nay puedo aprender eso",
+¿Cómo importo REGEX?,import re,No es necesario ya se incluye en python,Un dinosaurio que vive en México
+¿Para qué se usa el pass?,Para que no te mande error,Para pasar al siguiente nivel,Para buscar un error en tu función
+¿Cómo puedes generar números aleatorios con Python?,Con random,aleatory,casual
+"¿Cuál es el output de print(str[2:]) si str = ""Hello World!""?",llo World!,Hello World!,ello World!
+"En Venezuela, ¿cómo se le dice a hacer las compras del super?",Vamos a hacer mercado,Vamos a hacer el mandado,Vamos al tianguis
+"En Venezuela, ¿cómo se le dice al plátano?",Cambur,Banana,Minion
+¿Qué desayuno Zahid la clase del 15 octubre del 2022?,Pizza,Hot Dogs,Un bolillo
+¿Cuáles son los tipos de datos básicos?,"Integer, Float, String y Boolean",Verdadero y Numérico,Décimal y texto
+¿Quién desarrolló python?,Guido Van Rossum,Bill Gates,Steve Jobs
+¿Qué es PEP 8?,Guía de estilo que facilita la lectura del código y la consistencia entre programas,La nueva bebida de Pepsi,"No sé, yo tomo Coca"
+¿Cuáles son inmutables?,"Strings, Tuples y Numbers",Listas y Diccionarios ,Los muggles 
+¿A qué edad alcanzan la madurez las crías de elefante?,Entre los 12 y 15 años,Entre los 5 y 10 años,Entre los 15 y 20 años
+¿Qué es la filofobia?,El miedo a enamorarse,El miedo a python,El miedo a socializar
+¿Cómo se llama el gato de Beto?,Filomena,Beto Jr,Lady Matcha
+¿En qué año se fundó el Real Madrid?,1902,1950,1973
+¿Cuántos capítulos hay de la Leyenda de Ang?,61,153,102
+¿A cuál equipo de fútbol le va Zahid?,América,Cruz Azul,Chivas
